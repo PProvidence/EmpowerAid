@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+a{text-decoration: none !important;}
+/* text color */
+.pry1{
+    color: #241023 !important;
+}
+.neu{
+    color: #FEFFFB !important;
+}
+.sec{
+    color: #F2F230 !important;
+}
+.pry2{
+    color: #8A3D86 !important;
+}
+/* background color */
+.bg-pry1{
+    background-color: #241023 !important;
+}
+.bg-neu{
+    background-color: #FEFFFB !important;
+}
+.bg-sec{
+    background-color: #F2F230 !important;
+}
+.bg-pry2{
+    background-color: #8A3D86 !important;
+}
